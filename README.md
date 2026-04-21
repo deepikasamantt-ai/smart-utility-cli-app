@@ -47,11 +47,11 @@ Check Odd/Even
 Grade Checker
 Login System
 Exit
-
+~~~
 Choose an option: 2
 Enter a number: 4
 4 is even
-
+~~~
 📈 Learning Outcome
 
 This project helped in understanding how to:
