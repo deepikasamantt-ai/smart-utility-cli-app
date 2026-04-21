@@ -1,6 +1,6 @@
 while True:
     menu = ["Basic Calculator","Check Odd/Even","Grade Checker","Login System","Exit"]
-
+    # Display menu options
     for i in range(len(menu)):
         print(i + 1, menu[i])
 
