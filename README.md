@@ -50,7 +50,7 @@ Add exception handling (try-except)
 Modularize code using functions
 Enhance login system (multiple users, retries)
 Convert CLI app to GUI
+
+
 👤 Author
 Deepika Samant
-
-Your Name
