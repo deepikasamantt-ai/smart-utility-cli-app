@@ -59,7 +59,7 @@ Improved the application by:
 - Adding loop-based menu system
 - Implementing login system with attempt limit
 - Enhancing overall structure and readability
-- 
+ 
 📈 Learning Outcome
 
 This project helped in understanding how to:
