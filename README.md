@@ -41,6 +41,17 @@ python cli_app.py
 3. Grade Checker
 4. Login System
 5. Exit
+📷 Demo Output
+Basic Calculator
+Check Odd/Even
+Grade Checker
+Login System
+Exit
+
+Choose an option: 2
+Enter a number: 4
+4 is even
+
 📈 Learning Outcome
 
 This project helped in understanding how to:
