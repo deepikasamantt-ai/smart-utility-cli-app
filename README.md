@@ -1,4 +1,7 @@
 Smart Utility CLI App (Python)
+
+This project is a beginner-friendly Python CLI application that combines multiple utility features into a single interactive program.
+
 📌 Overview
 
 This is a menu-driven Command Line Interface (CLI) application built in Python.
