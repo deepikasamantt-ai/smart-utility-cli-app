@@ -52,6 +52,14 @@ Choose an option: 2
 Enter a number: 4
 4 is even
 ~~~
+🔄 Version Update
+
+Improved the application by:
+- Refactoring code into functions
+- Adding loop-based menu system
+- Implementing login system with attempt limit
+- Enhancing overall structure and readability
+- 
 📈 Learning Outcome
 
 This project helped in understanding how to:
@@ -65,6 +73,12 @@ Modularize code using functions
 Enhance login system (multiple users, retries)
 Convert CLI app to GUI
 
+## 🔄 Version Update
+
+This project was improved from a basic CLI script to a modular program using:
+- Functions for each feature
+- While loop for menu control
+- Login system with attempt limit
 
 👤 Author
 
